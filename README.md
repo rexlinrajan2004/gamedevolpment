@@ -51,3 +51,6 @@
 
 
 ## OUTPUT:
+
+## RESULT:
+Thus an image is edited using an image editing software.
