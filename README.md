@@ -49,8 +49,8 @@
 ⮚	Press enter to set the size.
 
 
-
 ## OUTPUT:
+![Screenshot 2025-05-23 213416](https://github.com/user-attachments/assets/ac97a002-571f-4fd8-a186-c12867e098d1)
 
 ## RESULT:
 Thus an image is edited using an image editing software.
